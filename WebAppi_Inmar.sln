@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppi_Inmar", "WebAppi_Inmar\WebAppi_Inmar.csproj", "{82AD1B62-17B9-4CB0-9AD1-4541E762F26B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82AD1B62-17B9-4CB0-9AD1-4541E762F26B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82AD1B62-17B9-4CB0-9AD1-4541E762F26B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82AD1B62-17B9-4CB0-9AD1-4541E762F26B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82AD1B62-17B9-4CB0-9AD1-4541E762F26B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36758B3E-7C61-47A2-B6EF-8F3181367FED}
+	EndGlobalSection
+EndGlobal
